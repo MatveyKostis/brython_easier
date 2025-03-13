@@ -11,13 +11,13 @@ A: Two ways, one if you need to full, other if you want a few functions.<br>
 First way:
 
 ```python
-from brython_easier.brython import *
+from brython_easier import *
 ```
 
 Second way:
 
 ```python
-from brython_easier.brython import LocalStorageManager, timers  # and_etc
+from brython_easier import LocalStorageManager, timers  # and_etc
 ```
 
 3. Q: Why not use brython directly?<br>
@@ -29,7 +29,7 @@ localstorage.set_storage("ExampleGame") # put it somewhere in the start of code
 ```
 
 5. Q: How to install library?<br>
-A: Because i still didn't add it in Pypi, you can install it by downloading the library and adding it to your project. Just add in folder with code, and import like that:
+A: Use pip install brython-easier, or you can just download file and import like that:
 ```python
 from your_file_name import *
 ```
