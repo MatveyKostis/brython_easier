@@ -30,7 +30,7 @@ localstorage.set_storage("ExampleGame") # put it somewhere in the start of code
 5. Q: How to install library?<br>
 A: Because i still didn't add it in Pypi, you can install it by downloading the library and adding it to your project. Just add in folder with code, and import like that:
 ```python
-from # your file name import # anything you need, or use *
+from your_file_name import *
 ```
 
 6. Q: How to contribute?<br>
