@@ -12,3 +12,4 @@ setup(
     author_email='matveykostiapk@gmail.com',
     description='An easier brython library '
 )
+
