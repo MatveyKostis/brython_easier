@@ -11,12 +11,13 @@ A: Two ways, one if you need to full, other if you want a few functions.<br>
 First way:
 
 ```python
-from brython import *
+from brython_easier.brython import *
 ```
 
 Second way:
+
 ```python
-from brython import LocalStorageManager, timers # and_etc
+from brython_easier.brython import LocalStorageManager, timers  # and_etc
 ```
 
 3. Q: Why not use brython directly?<br>
