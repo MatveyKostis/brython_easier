@@ -1,7 +1,7 @@
 # An easier brython library
 
 This is library to use brython (document, window, etc) without breaking brain<br>
-
+[Documentary](https://github.com/MatveyKostis/brython_easier/wiki/Documentary)
 ## FAQ <br>
 
 1. Q: Why this library even exists? What was a reason of creating?<br>
