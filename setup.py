@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='brython_easier',
-    version='0.1.3',
+    version='0.1.4',
     packages=[''],
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
